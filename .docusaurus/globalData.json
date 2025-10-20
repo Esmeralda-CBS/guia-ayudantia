@@ -1,0 +1,58 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/guia-ayudantia/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/guia-ayudantia/docs",
+          "mainDocId": "Introduccion",
+          "docs": [
+            {
+              "id": "deberes",
+              "path": "/guia-ayudantia/docs/deberes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentos/notas_de_capitania",
+              "path": "/guia-ayudantia/docs/documentos/notas_de_capitania",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Introduccion",
+              "path": "/guia-ayudantia/docs/Introduccion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "referencias_frecuentes",
+              "path": "/guia-ayudantia/docs/referencias_frecuentes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "revista_cuarteles",
+              "path": "/guia-ayudantia/docs/revista_cuarteles",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/creacion-de-documentos",
+              "path": "/guia-ayudantia/docs/category/creacion-de-documentos",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/guia-ayudantia/docs/Introduccion",
+                "label": "Introduccion"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "label": "Creacion de documentos",
+  "position": 3,
+  "link": {
+    "type": "generated-index"
+  },
+  "collapsed": false,
+  "customProps": {
+    "description": "This description can be used in the swizzled DocCard"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "deberes",
+  "title": "Deberes del Ayudante",
+  "description": "Contamos con dos ayudantes, cuyos deberes y responsabilidades se encuentran principalmente en el Titulo V del Reglamento de Compañía, sin embargo también debemos realizar algunos de los deberes encomendados al Sr. Capitán, los que se encuentran en el Titulo III del Reglamento de Compañía y en el Titulo XV del Reglamento General.",
+  "source": "@site/docs/deberes.md",
+  "sourceDirName": ".",
+  "slug": "/deberes",
+  "permalink": "/guia-ayudantia/docs/deberes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/deberes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduccion",
+    "permalink": "/guia-ayudantia/docs/Introduccion"
+  },
+  "next": {
+    "title": "Creacion de documentos",
+    "permalink": "/guia-ayudantia/docs/category/creacion-de-documentos"
+  }
+}

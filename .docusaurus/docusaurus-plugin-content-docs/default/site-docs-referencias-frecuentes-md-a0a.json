@@ -1,0 +1,24 @@
+{
+  "id": "referencias_frecuentes",
+  "title": "Referencias frecuentes",
+  "description": "",
+  "source": "@site/docs/referencias_frecuentes.md",
+  "sourceDirName": ".",
+  "slug": "/referencias_frecuentes",
+  "permalink": "/guia-ayudantia/docs/referencias_frecuentes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/referencias_frecuentes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Notas de Capitania",
+    "permalink": "/guia-ayudantia/docs/documentos/notas_de_capitania"
+  },
+  "next": {
+    "title": "Revista de Cuarteles",
+    "permalink": "/guia-ayudantia/docs/revista_cuarteles"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "revista_cuarteles",
+  "title": "Revista de Cuarteles",
+  "description": "",
+  "source": "@site/docs/revista_cuarteles.md",
+  "sourceDirName": ".",
+  "slug": "/revista_cuarteles",
+  "permalink": "/guia-ayudantia/docs/revista_cuarteles",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/revista_cuarteles.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Referencias frecuentes",
+    "permalink": "/guia-ayudantia/docs/referencias_frecuentes"
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "237": [
+      237
+    ],
+    "285": [
+      61,
+      250,
+      401,
+      285
+    ],
+    "17896441": [
+      250,
+      285,
+      401
+    ],
+    "84866572": [
+      853
+    ],
+    "main": [
+      250,
+      354,
+      792
+    ],
+    "runtime~main": [
+      250,
+      792,
+      354
+    ],
+    "14eb3368": [
+      250,
+      969
+    ],
+    "1f391b9e": [
+      250,
+      285,
+      61
+    ],
+    "33eb2931": [
+      307
+    ],
+    "393be207": [
+      134
+    ],
+    "5e95c892": [
+      647
+    ],
+    "8f687ec3": [
+      869
+    ],
+    "93ed5440": [
+      555
+    ],
+    "a0a1a023": [
+      176
+    ],
+    "a60fcd6e": [
+      362
+    ],
+    "a7456010": [
+      235
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      250,
+      48
+    ],
+    "aba21aa0": [
+      742
+    ],
+    "c3750b6f": [
+      147
+    ],
+    "c4f5d8e4": [
+      250,
+      634
+    ],
+    "styles": [
+      48,
+      61,
+      285,
+      354,
+      401,
+      634,
+      792,
+      969,
+      250
+    ]
+  },
+  "assets": {
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.c0bbb0ff.js",
+          "hash": "a98f849b6f68b01f",
+          "publicPath": "/guia-ayudantia/assets/js/a94703ab.c0bbb0ff.js"
+        }
+      ]
+    },
+    "61": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.90469bef.js",
+          "hash": "02395c8c4298b6ae",
+          "publicPath": "/guia-ayudantia/assets/js/1f391b9e.90469bef.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.1323ea3f.js",
+          "hash": "e6fe20d74ca66cba",
+          "publicPath": "/guia-ayudantia/assets/js/a7bd4aaa.1323ea3f.js"
+        }
+      ]
+    },
+    "134": {
+      "js": [
+        {
+          "file": "assets/js/393be207.9dceb8e9.js",
+          "hash": "f8cf93e12dcf90fa",
+          "publicPath": "/guia-ayudantia/assets/js/393be207.9dceb8e9.js"
+        }
+      ]
+    },
+    "147": {
+      "js": [
+        {
+          "file": "assets/js/c3750b6f.62ef347a.js",
+          "hash": "f9e212ab7c91ce77",
+          "publicPath": "/guia-ayudantia/assets/js/c3750b6f.62ef347a.js"
+        }
+      ]
+    },
+    "176": {
+      "js": [
+        {
+          "file": "assets/js/a0a1a023.b0bf7ff7.js",
+          "hash": "718d92b91e7a7df8",
+          "publicPath": "/guia-ayudantia/assets/js/a0a1a023.b0bf7ff7.js"
+        }
+      ]
+    },
+    "235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.94d33518.js",
+          "hash": "8edc238b5cb99601",
+          "publicPath": "/guia-ayudantia/assets/js/a7456010.94d33518.js"
+        }
+      ]
+    },
+    "237": {
+      "js": [
+        {
+          "file": "assets/js/237.76349f96.js",
+          "hash": "16f2f9c7a685c937",
+          "publicPath": "/guia-ayudantia/assets/js/237.76349f96.js"
+        }
+      ]
+    },
+    "250": {
+      "css": [
+        {
+          "file": "assets/css/styles.8c1dd5bc.css",
+          "hash": "1881f3375457c65e",
+          "publicPath": "/guia-ayudantia/assets/css/styles.8c1dd5bc.css"
+        }
+      ]
+    },
+    "285": {
+      "js": [
+        {
+          "file": "assets/js/285.82c830f1.js",
+          "hash": "d01fe2e801c6fd20",
+          "publicPath": "/guia-ayudantia/assets/js/285.82c830f1.js"
+        }
+      ]
+    },
+    "307": {
+      "js": [
+        {
+          "file": "assets/js/33eb2931.41da570d.js",
+          "hash": "0c10d1c7b8697321",
+          "publicPath": "/guia-ayudantia/assets/js/33eb2931.41da570d.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.9477494b.js",
+          "hash": "65b8c9694660182b",
+          "publicPath": "/guia-ayudantia/assets/js/runtime~main.9477494b.js"
+        }
+      ]
+    },
+    "362": {
+      "js": [
+        {
+          "file": "assets/js/a60fcd6e.68b0df28.js",
+          "hash": "410911cc983a2b09",
+          "publicPath": "/guia-ayudantia/assets/js/a60fcd6e.68b0df28.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.a9ce5128.js",
+          "hash": "9c3a1d760d2b5086",
+          "publicPath": "/guia-ayudantia/assets/js/17896441.a9ce5128.js"
+        }
+      ]
+    },
+    "555": {
+      "js": [
+        {
+          "file": "assets/js/93ed5440.22620cf2.js",
+          "hash": "8c41502c74dfe992",
+          "publicPath": "/guia-ayudantia/assets/js/93ed5440.22620cf2.js"
+        }
+      ]
+    },
+    "634": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.19c0e1ed.js",
+          "hash": "d6d16bdc65ff333a",
+          "publicPath": "/guia-ayudantia/assets/js/c4f5d8e4.19c0e1ed.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.3ef06892.js",
+          "hash": "4284344e73dbb824",
+          "publicPath": "/guia-ayudantia/assets/js/5e95c892.3ef06892.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.5caa76ba.js",
+          "hash": "a814cb57cf399bcb",
+          "publicPath": "/guia-ayudantia/assets/js/aba21aa0.5caa76ba.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.c94f72dd.js",
+          "hash": "c9c9eefbb69b8a8a",
+          "publicPath": "/guia-ayudantia/assets/js/main.c94f72dd.js"
+        }
+      ]
+    },
+    "853": {
+      "js": [
+        {
+          "file": "assets/js/84866572.1ad4eeea.js",
+          "hash": "ace851556fd4275f",
+          "publicPath": "/guia-ayudantia/assets/js/84866572.1ad4eeea.js"
+        }
+      ]
+    },
+    "869": {
+      "js": [
+        {
+          "file": "assets/js/8f687ec3.3c679896.js",
+          "hash": "3428be9e6f6488c2",
+          "publicPath": "/guia-ayudantia/assets/js/8f687ec3.3c679896.js"
+        }
+      ]
+    },
+    "969": {
+      "js": [
+        {
+          "file": "assets/js/14eb3368.86abc06c.js",
+          "hash": "71982c67ef52ace6",
+          "publicPath": "/guia-ayudantia/assets/js/14eb3368.86abc06c.js"
+        }
+      ]
+    }
+  }
+}

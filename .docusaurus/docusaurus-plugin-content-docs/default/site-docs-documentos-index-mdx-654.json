@@ -1,0 +1,24 @@
+{
+  "id": "documentos/index",
+  "title": "Creacion de Documentos",
+  "description": "Esta seccion aborda los tutoriales de como realizar cada documento que tendras que hacer.",
+  "source": "@site/docs/documentos/index.mdx",
+  "sourceDirName": "documentos",
+  "slug": "/documentos/",
+  "permalink": "/docs/documentos/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/documentos/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Creacion de documentos",
+    "permalink": "/docs/category/creacion-de-documentos"
+  },
+  "next": {
+    "title": "Notas de Capitania",
+    "permalink": "/docs/documentos/notas_de_capitania"
+  }
+}
