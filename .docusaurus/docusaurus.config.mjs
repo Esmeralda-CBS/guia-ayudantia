@@ -32,6 +32,7 @@ export default {
   "baseUrl": "/guia-ayudantia/",
   "organizationName": "esmeralda-cbs",
   "projectName": "guia-ayudantia",
+  "deploymentBranch": "deployment",
   "onBrokenLinks": "warn",
   "i18n": {
     "defaultLocale": "es",
@@ -65,18 +66,18 @@ export default {
     "navbar": {
       "title": "Ayudantia Esmeralda",
       "logo": {
-        "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "alt": "Segunda Esmeralda",
+        "src": "img/escudo.png"
       },
       "items": [
         {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Guia"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/esmeralda-cbs/guia-ayudantia",
           "label": "GitHub",
           "position": "right"
         }
@@ -87,46 +88,19 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
-          "items": [
-            {
-              "label": "Tutorial",
-              "to": "/docs/intro"
-            }
-          ]
+          "title": null,
+          "items": []
         },
         {
-          "title": "Community",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "X",
-              "href": "https://x.com/docusaurus"
-            }
-          ]
+          "title": null,
+          "items": []
         },
         {
-          "title": "More",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
-            }
-          ]
+          "title": null,
+          "items": []
         }
       ],
-      "copyright": "Copyright © 2025 My Project, Inc. Built with Docusaurus."
+      "copyright": "⌨️ with ❤️ by torokoko 😊 © 1863 - 2025 Esmeralda. Built with Docusaurus."
     },
     "prism": {
       "theme": {
