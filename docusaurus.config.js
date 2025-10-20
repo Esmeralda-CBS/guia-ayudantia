@@ -71,18 +71,18 @@ const config = {
       navbar: {
         title: 'Ayudantia Esmeralda',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Segunda Esmeralda',
+          src: 'img/escudo.png',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Guia',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/esmeralda-cbs/guia-ayudantia',
             label: 'GitHub',
             position: 'right',
           },
@@ -92,46 +92,46 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
+            // title: 'Docs',
+            // items: [
+            //   {
+            //     label: 'Guia',
+            //     to: '/docs/intro',
+            //   },
+            // ],
           },
           {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
-            ],
+            // title: 'Links de Interes',
+            // items: [
+            //   {
+            //     label: 'Pagina principal',
+            //     href: 'https://segundacbs.cl',
+            //   },
+            //   {
+            //     label: 'Cuerpo de Bomberos de Santiago',
+            //     href: 'https://cbs.cl',
+            //   },
+            //   {
+            //     label: 'Guia de Ayudantia (8va Cia)',
+            //     href: 'https://octavabomberos.cl/guia-ayudantia-documentada/',
+            //   },
+            // ],
           },
           {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
+            // title: 'More',
+            // items: [
+            //   {
+            //     label: 'Blog',
+            //     to: '/blog',
+            //   },
+            //   {
+            //     label: 'GitHub',
+            //     href: 'https://github.com/facebook/docusaurus',
+            //   },
+            // ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `⌨️ with ❤️ by torokoko 😊 © 1863 - ${new Date().getFullYear()} Esmeralda. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

@@ -1,7 +1,7 @@
 {
   "id": "revista_cuarteles",
   "title": "Revista de Cuarteles",
-  "description": "",
+  "description": "Llego el momento mas temido por todos los oficiales, la revista de cuarteles de la Comandancia, donde revisaran cada detalle que se haya cumplido adecuadamente.",
   "source": "@site/docs/revista_cuarteles.md",
   "sourceDirName": ".",
   "slug": "/revista_cuarteles",
@@ -14,7 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Referencias frecuentes",
-    "permalink": "/guia-ayudantia/docs/referencias_frecuentes"
+    "title": "Notas frecuentes",
+    "permalink": "/guia-ayudantia/docs/notas_frecuentes"
+  },
+  "next": {
+    "title": "SISPAR",
+    "permalink": "/guia-ayudantia/docs/sispar"
   }
 }

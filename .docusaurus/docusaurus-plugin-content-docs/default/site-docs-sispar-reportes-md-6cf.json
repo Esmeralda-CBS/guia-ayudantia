@@ -1,0 +1,23 @@
+{
+  "id": "sispar/reportes",
+  "title": "Reportes",
+  "description": "Esta sección esta llena de herramientas muy utiles.",
+  "source": "@site/docs/sispar/reportes.md",
+  "sourceDirName": "sispar",
+  "slug": "/sispar/reportes",
+  "permalink": "/guia-ayudantia/docs/sispar/reportes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/sispar/reportes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mantenedores",
+    "permalink": "/guia-ayudantia/docs/sispar/mantenedores"
+  }
+}

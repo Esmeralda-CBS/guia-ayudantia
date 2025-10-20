@@ -1,0 +1,27 @@
+{
+  "id": "sispar/mantenedores",
+  "title": "Mantenedores",
+  "description": "En esta sección se administra la información con la que trabaja el SISPAR, y se encuentran las siguientes categorias:",
+  "source": "@site/docs/sispar/mantenedores.md",
+  "sourceDirName": "sispar",
+  "slug": "/sispar/mantenedores",
+  "permalink": "/guia-ayudantia/docs/sispar/mantenedores",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/sispar/mantenedores.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Que es",
+    "permalink": "/guia-ayudantia/docs/sispar/que_es"
+  },
+  "next": {
+    "title": "Reportes",
+    "permalink": "/guia-ayudantia/docs/sispar/reportes"
+  }
+}

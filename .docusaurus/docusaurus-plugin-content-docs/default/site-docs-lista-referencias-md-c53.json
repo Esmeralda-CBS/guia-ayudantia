@@ -1,0 +1,24 @@
+{
+  "id": "lista_referencias",
+  "title": "Referencias",
+  "description": "Una referencia es un estatuto, un articulo del reglamento, una Orden del Día, un Acuerdo de Carácter Permanente que te dice que tienes que hacer algo, en este caso, comunicar un acontecimiento",
+  "source": "@site/docs/lista_referencias.md",
+  "sourceDirName": ".",
+  "slug": "/lista_referencias",
+  "permalink": "/guia-ayudantia/docs/lista_referencias",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/lista_referencias.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ordenes del Día",
+    "permalink": "/guia-ayudantia/docs/documentos/ordenes_del_dia"
+  },
+  "next": {
+    "title": "Notas frecuentes",
+    "permalink": "/guia-ayudantia/docs/notas_frecuentes"
+  }
+}

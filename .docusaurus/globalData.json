@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/guia-ayudantia/docs",
-          "mainDocId": "Introduccion",
+          "mainDocId": "intro",
           "docs": [
             {
               "id": "deberes",
@@ -21,18 +21,48 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Introduccion",
-              "path": "/guia-ayudantia/docs/Introduccion",
+              "id": "documentos/ordenes_del_dia",
+              "path": "/guia-ayudantia/docs/documentos/ordenes_del_dia",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "referencias_frecuentes",
-              "path": "/guia-ayudantia/docs/referencias_frecuentes",
+              "id": "intro",
+              "path": "/guia-ayudantia/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "lista_referencias",
+              "path": "/guia-ayudantia/docs/lista_referencias",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "notas_frecuentes",
+              "path": "/guia-ayudantia/docs/notas_frecuentes",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "revista_cuarteles",
               "path": "/guia-ayudantia/docs/revista_cuarteles",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sispar/index",
+              "path": "/guia-ayudantia/docs/sispar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sispar/mantenedores",
+              "path": "/guia-ayudantia/docs/sispar/mantenedores",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sispar/que_es",
+              "path": "/guia-ayudantia/docs/sispar/que_es",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sispar/reportes",
+              "path": "/guia-ayudantia/docs/sispar/reportes",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -45,7 +75,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/guia-ayudantia/docs/Introduccion",
+                "path": "/guia-ayudantia/docs/intro",
                 "label": "Introduccion"
               }
             }

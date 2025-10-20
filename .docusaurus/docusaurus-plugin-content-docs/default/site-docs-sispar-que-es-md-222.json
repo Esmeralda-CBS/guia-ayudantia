@@ -1,0 +1,27 @@
+{
+  "id": "sispar/que_es",
+  "title": "Que es",
+  "description": "SISPAR es el Sistema de Partes, una herramienta informática desarrollada de forma externa y que se encuentra implementada actualmente en más de la mitad del CBS (incluyendo en la propia Comandancia), por lo que es una parte vital.",
+  "source": "@site/docs/sispar/que_es.md",
+  "sourceDirName": "sispar",
+  "slug": "/sispar/que_es",
+  "permalink": "/guia-ayudantia/docs/sispar/que_es",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/sispar/que_es.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SISPAR",
+    "permalink": "/guia-ayudantia/docs/sispar"
+  },
+  "next": {
+    "title": "Mantenedores",
+    "permalink": "/guia-ayudantia/docs/sispar/mantenedores"
+  }
+}

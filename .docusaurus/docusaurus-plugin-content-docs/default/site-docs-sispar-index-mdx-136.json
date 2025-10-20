@@ -1,0 +1,27 @@
+{
+  "id": "sispar/index",
+  "title": "SISPAR",
+  "description": "Esta seccion (y sus hijos) aun se encuentran en construccion, asi que la informacion no esta del todo completa, puedes contribuir a su crecimiento en Aportes",
+  "source": "@site/docs/sispar/index.mdx",
+  "sourceDirName": "sispar",
+  "slug": "/sispar",
+  "permalink": "/guia-ayudantia/docs/sispar",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/sispar/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "/sispar",
+    "collapsed": false
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Revista de Cuarteles",
+    "permalink": "/guia-ayudantia/docs/revista_cuarteles"
+  },
+  "next": {
+    "title": "Que es",
+    "permalink": "/guia-ayudantia/docs/sispar/que_es"
+  }
+}
